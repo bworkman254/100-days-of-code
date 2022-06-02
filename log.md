@@ -8,4 +8,11 @@
 
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org)
 
+### Day 1:June 2nd, 2022 Part 2
+
+**Today's Progress**: Continued on "Learn HTML by Building a Cat App" and finished the lesson.
+
+**Thoughts:** I didn't really want to revisit this today, but I found an opputunity due to not having anything else to do at work.
+
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org)
 
